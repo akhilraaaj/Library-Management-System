@@ -1,0 +1,10 @@
+LIBRARY MANAGEMENT SYSTEM
+	
+	Administrator of the project can:
+
+	• Enter new member record.
+	• Display all/specific member record.
+	• Add and Delete member record.
+	• Enter new book record.
+	• Display all books.
+	• Add and Delete book record
